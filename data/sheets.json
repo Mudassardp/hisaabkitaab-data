@@ -1,9 +1,9 @@
 {
   "sheets": [
     {
-      "id": "sheet_1763631598609",
-      "name": "Kharcha-11/20/2025, 12:39:58 PM",
-      "date": "11/20/2025, 12:39:58 PM",
+      "id": "sheet_1763633084038",
+      "name": "Kharcha-11/20/2025, 1:04:44 PM",
+      "date": "11/20/2025, 1:04:44 PM",
       "participants": [
         "Rizwan",
         "Aarif",
@@ -23,89 +23,89 @@
       ],
       "expenses": {
         "Rizwan": {
-          "spent": 20,
+          "spent": 0,
           "meals": 3,
-          "toBePaid": -12.666666666666666
+          "toBePaid": 0
         },
         "Aarif": {
-          "spent": 30,
+          "spent": 0,
           "meals": 3,
-          "toBePaid": -22.666666666666664
+          "toBePaid": 0
         },
         "Abdul Razzaq": {
-          "spent": 50,
+          "spent": 0,
           "meals": 3,
-          "toBePaid": -42.666666666666664
+          "toBePaid": 0
         },
         "Haris": {
-          "spent": 10,
+          "spent": 0,
           "meals": 3,
-          "toBePaid": -2.666666666666666
+          "toBePaid": 0
         },
         "Mauzam": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Masif": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Mudassar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Shahid": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Mansoor Kotawdekar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Mansoor Wasta": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Mohsin": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Ubedulla": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Abdul Alim": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Sabir": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         },
         "Aftab": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 7.333333333333334
+          "toBePaid": 0
         }
       },
-      "createdAt": "2025-11-20T09:39:58.609Z",
-      "totalSpent": 110,
+      "createdAt": "2025-11-20T10:04:44.038Z",
+      "totalSpent": 0,
       "totalMeals": 45,
-      "costPerMeal": 2.4444444444444446,
-      "lastUpdated": "2025-11-20T09:50:00.290Z"
+      "costPerMeal": 0,
+      "lastUpdated": "2025-11-20T10:04:48.250Z"
     }
   ],
-  "lastUpdated": "2025-11-20T09:50:01.460Z",
+  "lastUpdated": "2025-11-20T10:04:50.101Z",
   "app": "HisaabKitaab",
   "version": "1.0"
 }
