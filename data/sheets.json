@@ -25,87 +25,87 @@
         "Rizwan": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Aarif": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Abdul Razzaq": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Haris": {
-          "spent": 0,
+          "spent": 50,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": -46.666666666666664
         },
         "Mauzam": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Masif": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Mudassar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Shahid": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Mansoor Kotawdekar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Mansoor Wasta": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Mohsin": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Ubedulla": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Abdul Alim": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Sabir": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         },
         "Aftab": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 0
+          "toBePaid": 3.3333333333333335
         }
       },
       "createdAt": "2025-11-20T09:11:33.001Z",
-      "totalSpent": 0,
+      "totalSpent": 50,
       "totalMeals": 45,
-      "costPerMeal": 0,
-      "lastUpdated": "2025-11-20T09:11:35.673Z"
+      "costPerMeal": 1.1111111111111112,
+      "lastUpdated": "2025-11-20T09:11:45.785Z"
     }
   ],
-  "lastUpdated": "2025-11-20T09:11:36.715Z",
+  "lastUpdated": "2025-11-20T09:11:46.883Z",
   "app": "HisaabKitaab",
   "version": "1.0"
 }
