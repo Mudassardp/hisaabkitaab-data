@@ -1,6 +1,111 @@
 {
-  "sheets": [],
-  "lastUpdated": "2025-11-20T13:56:19.435Z",
+  "sheets": [
+    {
+      "id": "sheet_1763930495978",
+      "name": "Kharcha-11/23/2025, 11:41:35 PM",
+      "date": "11/23/2025, 11:41:35 PM",
+      "participants": [
+        "Rizwan",
+        "Aarif",
+        "Abdul Razzaq",
+        "Haris",
+        "Mauzam",
+        "Masif",
+        "Mudassar",
+        "Shahid",
+        "Mansoor Kotawdekar",
+        "Mansoor Wasta",
+        "Mohsin",
+        "Ubedulla",
+        "Abdul Alim",
+        "Sabir",
+        "Aftab"
+      ],
+      "expenses": {
+        "Rizwan": {
+          "spent": 20,
+          "meals": 2,
+          "toBePaid": -15.714285714285715
+        },
+        "Aarif": {
+          "spent": 20,
+          "meals": 2,
+          "toBePaid": -15.714285714285715
+        },
+        "Abdul Razzaq": {
+          "spent": 20,
+          "meals": 2,
+          "toBePaid": -15.714285714285715
+        },
+        "Haris": {
+          "spent": 30,
+          "meals": 3,
+          "toBePaid": -23.57142857142857
+        },
+        "Mauzam": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Masif": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Mudassar": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Shahid": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Mansoor Kotawdekar": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Mansoor Wasta": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Mohsin": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Ubedulla": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Abdul Alim": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Sabir": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        },
+        "Aftab": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 6.428571428571429
+        }
+      },
+      "createdAt": "2025-11-23T20:41:35.978Z",
+      "totalSpent": 90,
+      "totalMeals": 42,
+      "costPerMeal": 2.142857142857143,
+      "lastUpdated": "2025-11-23T20:41:50.859Z"
+    }
+  ],
+  "lastUpdated": "2025-11-23T20:41:52.142Z",
   "app": "HisaabKitaab",
   "version": "1.0"
 }
