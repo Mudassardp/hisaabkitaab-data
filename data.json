@@ -25,85 +25,85 @@
         "Rizwan": {
           "spent": 100,
           "meals": 3,
-          "toBePaid": -88.66666666666667
+          "toBePaid": -78.66666666666667
         },
         "Aarif": {
           "spent": 50,
           "meals": 3,
-          "toBePaid": -38.66666666666667
+          "toBePaid": -28.666666666666668
         },
         "Abdul Razzaq": {
           "spent": 20,
           "meals": 3,
-          "toBePaid": -8.666666666666668
+          "toBePaid": 1.3333333333333321
         },
         "Haris": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Mauzam": {
-          "spent": 0,
+          "spent": 150,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": -128.66666666666666
         },
         "Masif": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Mudassar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Shahid": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Mansoor Kotawdekar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Mansoor Wasta": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Mohsin": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Ubedulla": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Abdul Alim": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Sabir": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         },
         "Aftab": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 11.333333333333332
+          "toBePaid": 21.333333333333332
         }
       },
       "createdAt": "2025-11-25T09:03:48.188Z",
-      "totalSpent": 170,
+      "totalSpent": 320,
       "totalMeals": 45,
-      "costPerMeal": 3.7777777777777777,
-      "lastUpdated": "2025-11-25T09:03:59.825Z"
+      "costPerMeal": 7.111111111111111,
+      "lastUpdated": "2025-11-25T09:04:15.953Z"
     }
   ],
-  "lastUpdated": "2025-11-25T09:04:00.391Z"
+  "lastUpdated": "2025-11-25T09:04:16.146Z"
 }
