@@ -1,98 +1,6 @@
 {
   "sheets": [
     {
-      "id": "sheet_1764061428188",
-      "name": "Kharcha-11/25/2025, 12:03:48 PM",
-      "date": "11/25/2025, 12:03:48 PM",
-      "participants": [
-        "Rizwan",
-        "Aarif",
-        "Abdul Razzaq",
-        "Haris",
-        "Mauzam",
-        "Masif",
-        "Mudassar",
-        "Shahid",
-        "Mansoor Kotawdekar",
-        "Mansoor Wasta",
-        "Mohsin",
-        "Ubedulla",
-        "Abdul Alim"
-      ],
-      "expenses": {
-        "Rizwan": {
-          "spent": 100,
-          "meals": 3,
-          "toBePaid": -67.6923076923077
-        },
-        "Aarif": {
-          "spent": 50,
-          "meals": 3,
-          "toBePaid": -17.692307692307693
-        },
-        "Abdul Razzaq": {
-          "spent": 20,
-          "meals": 3,
-          "toBePaid": 12.307692307692307
-        },
-        "Haris": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Mauzam": {
-          "spent": 150,
-          "meals": 3,
-          "toBePaid": -117.6923076923077
-        },
-        "Masif": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Mudassar": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Shahid": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Mansoor Kotawdekar": {
-          "spent": 100,
-          "meals": 3,
-          "toBePaid": -67.6923076923077
-        },
-        "Mansoor Wasta": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Mohsin": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Ubedulla": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        },
-        "Abdul Alim": {
-          "spent": 0,
-          "meals": 3,
-          "toBePaid": 32.30769230769231
-        }
-      },
-      "createdAt": "2025-11-25T09:03:48.188Z",
-      "totalSpent": 420,
-      "totalMeals": 39,
-      "costPerMeal": 10.76923076923077,
-      "lastUpdated": "2025-11-25T09:30:14.913Z"
-    },
-    {
       "id": "sheet_1764063092177",
       "name": "Kharcha-11/25/2025, 12:31:32 PM",
       "date": "11/25/2025, 12:31:32 PM",
@@ -177,7 +85,99 @@
       "totalMeals": 36,
       "costPerMeal": 9.166666666666666,
       "lastUpdated": "2025-11-25T09:31:46.801Z"
+    },
+    {
+      "id": "sheet_1764061428188",
+      "name": "Kharcha-11/25/2025, 12:03:48 PM",
+      "date": "11/25/2025, 12:03:48 PM",
+      "participants": [
+        "Rizwan",
+        "Aarif",
+        "Abdul Razzaq",
+        "Haris",
+        "Mauzam",
+        "Masif",
+        "Mudassar",
+        "Shahid",
+        "Mansoor Kotawdekar",
+        "Mansoor Wasta",
+        "Mohsin",
+        "Ubedulla",
+        "Abdul Alim"
+      ],
+      "expenses": {
+        "Rizwan": {
+          "spent": 100,
+          "meals": 3,
+          "toBePaid": -73.84615384615384
+        },
+        "Aarif": {
+          "spent": 50,
+          "meals": 3,
+          "toBePaid": -23.846153846153847
+        },
+        "Abdul Razzaq": {
+          "spent": 20,
+          "meals": 3,
+          "toBePaid": 6.153846153846153
+        },
+        "Haris": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Mauzam": {
+          "spent": 150,
+          "meals": 3,
+          "toBePaid": -123.84615384615384
+        },
+        "Masif": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Mudassar": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Shahid": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Mansoor Kotawdekar": {
+          "spent": 20,
+          "meals": 3,
+          "toBePaid": 6.153846153846153
+        },
+        "Mansoor Wasta": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Mohsin": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Ubedulla": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        },
+        "Abdul Alim": {
+          "spent": 0,
+          "meals": 3,
+          "toBePaid": 26.153846153846153
+        }
+      },
+      "createdAt": "2025-11-25T09:03:48.188Z",
+      "totalSpent": 340,
+      "totalMeals": 39,
+      "costPerMeal": 8.717948717948717,
+      "lastUpdated": "2025-11-25T09:32:26.617Z"
     }
   ],
-  "lastUpdated": "2025-11-25T09:31:47.402Z"
+  "lastUpdated": "2025-11-25T09:32:27.295Z"
 }
