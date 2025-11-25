@@ -20,71 +20,71 @@
       ],
       "expenses": {
         "Rizwan": {
-          "spent": 30,
+          "spent": 120,
           "meals": 3,
-          "toBePaid": -2.5
+          "toBePaid": -85
         },
         "Aarif": {
           "spent": 40,
           "meals": 3,
-          "toBePaid": -12.5
+          "toBePaid": -5
         },
         "Abdul Razzaq": {
           "spent": 50,
           "meals": 3,
-          "toBePaid": -22.5
+          "toBePaid": -15
         },
         "Haris": {
           "spent": 60,
           "meals": 3,
-          "toBePaid": -32.5
+          "toBePaid": -25
         },
         "Mauzam": {
           "spent": 70,
           "meals": 3,
-          "toBePaid": -42.5
+          "toBePaid": -35
         },
         "Masif": {
           "spent": 80,
           "meals": 3,
-          "toBePaid": -52.5
+          "toBePaid": -45
         },
         "Mudassar": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         },
         "Shahid": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         },
         "Mohsin": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         },
         "Ubedulla": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         },
         "Abdul Alim": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         },
         "Sabir": {
           "spent": 0,
           "meals": 3,
-          "toBePaid": 27.5
+          "toBePaid": 35
         }
       },
       "createdAt": "2025-11-25T09:31:32.177Z",
-      "totalSpent": 330,
+      "totalSpent": 420,
       "totalMeals": 36,
-      "costPerMeal": 9.166666666666666,
-      "lastUpdated": "2025-11-25T09:31:46.801Z"
+      "costPerMeal": 11.666666666666666,
+      "lastUpdated": "2025-11-25T09:32:50.849Z"
     },
     {
       "id": "sheet_1764061428188",
@@ -179,5 +179,5 @@
       "lastUpdated": "2025-11-25T09:32:26.617Z"
     }
   ],
-  "lastUpdated": "2025-11-25T09:32:27.295Z"
+  "lastUpdated": "2025-11-25T09:32:51.365Z"
 }
